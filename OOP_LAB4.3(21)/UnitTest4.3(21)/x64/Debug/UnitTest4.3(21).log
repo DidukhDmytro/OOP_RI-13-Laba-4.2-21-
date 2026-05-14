@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest4.3(21).cpp
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB4.3(21)\UnitTest4.3(21)\UnitTest4.3(21).cpp(72,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest4.3(21).cpp')
+  
+C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB4.3(21)\UnitTest4.3(21)\UnitTest4.3(21).cpp(147,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest4.3(21).cpp')
+  
+     Creating library C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB4.3(21)\x64\Debug\UnitTest4.3(21).lib and object C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB4.3(21)\x64\Debug\UnitTest4.3(21).exp
+  UnitTest4.3(21).vcxproj -> C:\Users\diduk\OneDrive\Desktop\labs\OOP_LAB4.3(21)\x64\Debug\UnitTest4.3(21).dll
